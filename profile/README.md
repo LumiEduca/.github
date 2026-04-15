@@ -79,11 +79,16 @@ Na LumiEduca acreditamos em:
 
 ## 👥 Equipe
 
-Projeto liderado por uma equipe acadêmica multidisciplinar comprometida com inovação e transformação educacional.
+### Liderança do Projeto
+- **Bryan Duarte de Araujo Pereira** — Líder Técnico 
 
-**Líder do Projeto:**  
-Bryan Duarte de Araujo Pereira
-
+### Desenvolvedores
+- Adriel dos Santos Azevedo
+- Bernardo Teixeira Oliveira
+- Emmanuel Nazareth Bravo da Costa
+- João Lucas Bittencourt Rocha
+- João Paulo Amarilha Coelho
+- José Carlos Silva Pimentel
 ---
 
 ## 📌 Repositório Principal
