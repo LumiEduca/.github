@@ -69,6 +69,19 @@ Ser referência em soluções educacionais digitais, contribuindo para um aprend
 
 ---
 
+## 🌐 Teste Online
+
+Ficou curioso?
+A plataforma LumiEduca está disponível para você testar através do deploy na Vercel:
+
+[![Acessar LumiEduca](https://img.shields.io/badge/Acessar%20LumiEduca-FF8C00?style=for-the-badge)](https://lumieduca.vercel.app)
+
+Você pode testar a aplicação diretamente pelo navegador, tanto no computador quanto no celular.
+
+Por ser uma aplicação PWA, também é possível instalar o LumiEduca no dispositivo e utilizá-lo com experiência semelhante a um aplicativo mobile.
+
+---
+
 ## 🤝 Nossa Cultura
 
 Na LumiEduca acreditamos em:
